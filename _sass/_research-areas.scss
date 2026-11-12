@@ -1,0 +1,62 @@
+.research-areas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.25rem 0 1.4rem;
+}
+
+.research-area {
+  display: inline-block;
+  max-width: 100%;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid var(--area-border);
+  border-radius: 999px;
+  color: var(--area-text);
+  background: var(--area-background);
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.research-area--indigo {
+  --area-text: #4338ca;
+  --area-background: #eef2ff;
+  --area-border: #c7d2fe;
+  --area-dark-text: #c7d2fe;
+  --area-dark-background: #25234b;
+  --area-dark-border: #59559a;
+}
+
+.research-area--teal {
+  --area-text: #115e59;
+  --area-background: #f0fdfa;
+  --area-border: #99f6e4;
+  --area-dark-text: #99f6e4;
+  --area-dark-background: #153c38;
+  --area-dark-border: #39796d;
+}
+
+.research-area--blue {
+  --area-text: #075985;
+  --area-background: #f0f9ff;
+  --area-border: #bae6fd;
+  --area-dark-text: #bae6fd;
+  --area-dark-background: #19364a;
+  --area-dark-border: #416c8a;
+}
+
+.research-area--rose {
+  --area-text: #9f1239;
+  --area-background: #fff1f2;
+  --area-border: #fecdd3;
+  --area-dark-text: #fecdd3;
+  --area-dark-background: #472530;
+  --area-dark-border: #945468;
+}
+
+body.dark-mode .research-area {
+  color: var(--area-dark-text);
+  background: var(--area-dark-background);
+  border-color: var(--area-dark-border);
+}

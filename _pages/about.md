@@ -5,10 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-<details class="collapsible-section" open>
-<summary>Biography</summary>
-<div class="collapsible-section__content" markdown="1">
-
 I am a PhD candidate in Management and Entrepreneurship at the CUNY Graduate Center and Baruch College’s Zicklin School of Business. I study how firms govern legally independent partners, coordinate interdependent activities across organizational boundaries, and decide what to bring under common ownership. I pursue these questions in platform ecosystems, drawing on theories of the firm to understand how digital technology shapes contractual governance.
 
 My dissertation combines a systematic literature review, theory development, and quantitative analysis. The first essay reviews how different coordination demands shape platform governance. The second explains how digital architecture can strengthen contractual governance by making performance easier to document, verify, and challenge. This paper received a nomination for the PhD Student Paper Prize at the 46th Annual Strategic Management Society Conference and will be presented as a poster at the 2026 Corporate Strategy and Innovation Conference at the Wharton School.
@@ -30,6 +26,3 @@ My letter writers are Elena Vidal-Branciforte (dissertation chair), Tobias Krets
 I am on the 2026–2027 academic job market.
 
 Feel free to contact me at [onyeka.obasi@baruch.cuny.edu](mailto:onyeka.obasi@baruch.cuny.edu).
-
-</div>
-</details>

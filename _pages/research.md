@@ -5,18 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
-<details class="collapsible-section">
-<summary>Research Interests</summary>
-<div class="collapsible-section__content" markdown="1">
-
-Strategy &#124; Platforms & Ecosystems &#124; Firm Boundaries & Governance &#124; Organizational Design &#124; Industry Evolution &#124; AI & Competition
-
+<p><strong>Research Interests</strong></p>
+<div class="research-areas">
+  <span class="research-area research-area--indigo">Strategy</span>
+  <span class="research-area research-area--blue">Platforms &amp; Ecosystems</span>
+  <span class="research-area research-area--indigo">Firm Boundaries &amp; Governance</span>
+  <span class="research-area research-area--indigo">Organizational Design</span>
+  <span class="research-area research-area--rose">Industry Evolution</span>
+  <span class="research-area research-area--teal">AI &amp; Competition</span>
 </div>
-</details>
 
 <details class="collapsible-section">
-<summary>Job Market Paper</summary>
+<summary>Papers</summary>
 <div class="collapsible-section__content" markdown="1">
+
+## Job Market Paper
 
 **Obasi, O. M. “Persistent Coordination Strain and Ownership-Based Sourcing in Platform Ecosystems: Evidence from U.S. SVOD Services.”**
 
@@ -28,12 +31,7 @@ Strategy &#124; Platforms & Ecosystems &#124; Firm Boundaries & Governance &#124
 - INFORMS Annual Meeting, Job Market Showcase, 2026 (selected)
 - CCC Doctoral Conference, Bocconi University, 2026
 
-</div>
-</details>
-
-<details class="collapsible-section">
-<summary>Working Papers</summary>
-<div class="collapsible-section__content" markdown="1">
+## Working Papers
 
 **Obasi, O. M., & Rawley, E. “Governance by Design: Enabling Contractibility Through Digital Architecture.” (Preparing for submission to a Journal &#124; Working paper available upon request)**
 
@@ -43,12 +41,7 @@ Strategy &#124; Platforms & Ecosystems &#124; Firm Boundaries & Governance &#124
 - Strategic Management Society Annual Conference, 2026 (PhD Student Paper Prize nominee)
 - Academy of Management Annual Meeting, 2026
 
-</div>
-</details>
-
-<details class="collapsible-section">
-<summary>Work in Progress</summary>
-<div class="collapsible-section__content" markdown="1">
+## Work in Progress
 
 **Obasi, O. M., & Kyprianou, C. “Platform Governance in Complex Ecosystems: A Systematic Review and Research Agenda.”**
 
