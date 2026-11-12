@@ -1,0 +1,39 @@
+locale: en-US
+title: Onyeka M. Obasi
+name: Onyeka M. Obasi
+title_separator: "-"
+description: PhD candidate in Management and Entrepreneurship at the CUNY Graduate Center and Baruch College’s Zicklin School of Business.
+markdown: kramdown
+
+author:
+  name: Onyeka M. Obasi
+  avatar: onyeka-obasi.jpg
+  avatar_alt: Smiling woman wearing glasses with braided hair.
+  bio: PhD candidate in Management and Entrepreneurship
+  email: onyeka.obasi@baruch.cuny.edu
+  linkedin: onyeka-m-obasi-90953256/
+
+include:
+  - _pages
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - assets/js/_main.js
+  - assets/js/plugins
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: archive
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
