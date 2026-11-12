@@ -5,11 +5,18 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Interests
+<details class="collapsible-section">
+<summary>Teaching Interests</summary>
+<div class="collapsible-section__content" markdown="1">
 
 Strategic Management &#124; Platforms & Ecosystems &#124; AI & Innovation
 
-## Instructor of Record
+</div>
+</details>
+
+<details class="collapsible-section">
+<summary>Instructor of Record</summary>
+<div class="collapsible-section__content" markdown="1">
 
 **Fundamentals of Management (MGT 3120)**
 
@@ -25,12 +32,25 @@ Spring 2025: 4.5
 
 Fall 2024: 4.5
 
-## Teaching Award
+</div>
+</details>
+
+<details class="collapsible-section">
+<summary>Teaching Award</summary>
+<div class="collapsible-section__content" markdown="1">
 
 Dean’s Teaching Award, Zicklin School of Business, Baruch College, 2025–2026
 
-## Teaching Development
+</div>
+</details>
+
+<details class="collapsible-section">
+<summary>Teaching Development</summary>
+<div class="collapsible-section__content" markdown="1">
 
 Workshop on Strategies for Teaching Success in the Classroom, Bentley University, 2025
 
 Providence College Business Case Writing Workshop, Providence College, 2025
+
+</div>
+</details>

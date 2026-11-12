@@ -5,11 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Interests
+<details class="collapsible-section">
+<summary>Research Interests</summary>
+<div class="collapsible-section__content" markdown="1">
 
 Strategy &#124; Platforms & Ecosystems &#124; Firm Boundaries & Governance &#124; Organizational Design &#124; Industry Evolution &#124; AI & Competition
 
-## Job Market Paper
+</div>
+</details>
+
+<details class="collapsible-section">
+<summary>Job Market Paper</summary>
+<div class="collapsible-section__content" markdown="1">
 
 **Obasi, O. M. “Persistent Coordination Strain and Ownership-Based Sourcing in Platform Ecosystems: Evidence from U.S. SVOD Services.”**
 
@@ -21,7 +28,12 @@ Strategy &#124; Platforms & Ecosystems &#124; Firm Boundaries & Governance &#124
 - INFORMS Annual Meeting, Job Market Showcase, 2026 (selected)
 - CCC Doctoral Conference, Bocconi University, 2026
 
-## Working Papers
+</div>
+</details>
+
+<details class="collapsible-section">
+<summary>Working Papers</summary>
+<div class="collapsible-section__content" markdown="1">
 
 **Obasi, O. M., & Rawley, E. “Governance by Design: Enabling Contractibility Through Digital Architecture.” (Preparing for submission to a Journal &#124; Working paper available upon request)**
 
@@ -31,7 +43,12 @@ Strategy &#124; Platforms & Ecosystems &#124; Firm Boundaries & Governance &#124
 - Strategic Management Society Annual Conference, 2026 (PhD Student Paper Prize nominee)
 - Academy of Management Annual Meeting, 2026
 
-## Work in Progress
+</div>
+</details>
+
+<details class="collapsible-section">
+<summary>Work in Progress</summary>
+<div class="collapsible-section__content" markdown="1">
 
 **Obasi, O. M., & Kyprianou, C. “Platform Governance in Complex Ecosystems: A Systematic Review and Research Agenda.”**
 
@@ -46,7 +63,12 @@ Strategy &#124; Platforms & Ecosystems &#124; Firm Boundaries & Governance &#124
 - European Group for Organizational Studies (EGOS) Colloquium, 2026
 - Baruch College Research Symposium, 2025
 
-## Research Service
+</div>
+</details>
+
+<details class="collapsible-section">
+<summary>Research Service</summary>
+<div class="collapsible-section__content" markdown="1">
 
 ### Ad Hoc Reviewer
 
@@ -65,3 +87,6 @@ Strategy &#124; Platforms & Ecosystems &#124; Firm Boundaries & Governance &#124
 ### Recognition
 
 - Best Reviewer Award, Corporate Strategy Interest Group, Strategic Management Society, 2026
+
+</div>
+</details>
